@@ -2,7 +2,7 @@
   "name": "new",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alice123.github.io/image-gallery",
+  "homepage": "https://malrichsu.github.io/Image-Gallery/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
