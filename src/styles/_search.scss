@@ -1,0 +1,24 @@
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 0rem;
+}
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0rem;
+}
+.search input,
+.search button {
+  font-size: 1.3rem;
+  padding: 0.25rem;
+  border: 3px solid #d2b48c;
+}
+.search button {
+  background-color: #d2b48c;
+  color: white;
+  cursor: pointer;
+  font-weight: 500;
+}

@@ -1,0 +1,17 @@
+nav {
+  background-color: #d2b48c;
+  ul {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 2rem;
+    li {
+      padding: 1rem 1rem;
+      a {
+        font-size: 1.25rem;
+        color: gray;
+        font-weight: 700;
+        font-size: 20px;
+      }
+    }
+  }
+}
